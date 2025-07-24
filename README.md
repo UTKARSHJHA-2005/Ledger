@@ -29,7 +29,7 @@ A React Native app to manage grocery items available in shops. Easily add, edit,
 git clone https://github.com/UTKARSHJHA-2005/Ledger.git
 
 # Navigate to project folder
-cd grocery-ledger-app
+cd Ledger
 
 # Install dependencies
 npm install
