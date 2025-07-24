@@ -22,7 +22,7 @@ A React Native app to manage grocery items available in shops. Easily add, edit,
 
 # Getting Started
 <br/>
-## Step 1: Clone the repository and install the dependencies
+<strong>Step 1: Clone the repository and install the dependencies</strong>
 
 ```sh
 # Clone the repository
@@ -37,7 +37,7 @@ npm install
 yarn install
 ```
 
-## Step 2: Build and run your app
+<strong> Step 2: Build and run your app</strong>
 
 With Metro running, open a new terminal window/pane from the root of your React Native project, and use one of the following commands to build and run your Android or iOS app:
 
@@ -76,5 +76,5 @@ yarn ios
 ```
 
 If everything is set up correctly, you should see your new app running in the Android Emulator, iOS Simulator, or your connected device.
-## Congratulations! :tada:
+<strong>Congratulations! :tada:</strong>
 You've successfully run and modified your React Native App. 
