@@ -19,10 +19,9 @@ A React Native app to manage grocery items available in shops. Easily add, edit,
 3) Android Studio or Xcode<br/>
 4) React Native CLI (npx react-native)<br/>
 <br/>
+
 # Getting Started
-
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
-
+<br/>
 ## Step 1: Clone the repository and install the dependencies
 
 ```sh
